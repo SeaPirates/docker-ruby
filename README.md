@@ -17,7 +17,9 @@ Depois acessar o diretório
 `# cd app`
 
 Buildar o Dockerfile
+
 `# docker-compose build`
 
 Criar o container com o docker-compose
+
 `# docker-compose up`
